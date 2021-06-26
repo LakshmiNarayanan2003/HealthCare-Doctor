@@ -1,6 +1,6 @@
-# doctor
+# HealthCare Doctor
 
-A new Flutter application.
+App for doctors to view their appointments online which are synchronised with the database.
 
 ## Getting Started
 

@@ -2,15 +2,22 @@
 
 App for doctors to view their appointments online which are synchronised with the database.
 
-## Getting Started
+## ✨ Features
+- [x] See the appointments booked via the HealthCare app(The user app)
+- [x] Login Screen
+- [x] Credits, transactions
+- [x] Appointment notification(Alarm)
+- [x] View total patients & Treated patients
+- [x] Beautiful UI
 
-This project is a starting point for a Flutter application.
+## ✨ Screenshots:
+   <img src="screenshots/home.jpg" width="400"> <img src="screenshots/doctor.jpg" width="400">
+   <img src="screenshots/drawer.jpg" width="400"> <img src="screenshots/profile.jpg" width="400">|
+   
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+## Have fun 8^)
